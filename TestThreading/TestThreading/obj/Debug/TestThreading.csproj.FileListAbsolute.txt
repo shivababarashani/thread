@@ -1,0 +1,10 @@
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\bin\Debug\TestThreading.exe.config
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\bin\Debug\TestThreading.exe
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\bin\Debug\TestThreading.pdb
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.csprojAssemblyReference.cache
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.Form1.resources
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.Properties.Resources.resources
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.csproj.GenerateResource.cache
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.csproj.CoreCompileInputs.cache
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.exe
+C:\Users\Programer\Documents\Visual Studio 2017\Projects\TestThreading\TestThreading\obj\Debug\TestThreading.pdb
